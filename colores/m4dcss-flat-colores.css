@@ -1,0 +1,140 @@
+/*
+ * M4DCss-Flat
+ * ===========
+ *
+ * Libreria de colores
+ *
+ * Framework Flat opensource
+ * By J4ReK - M4DSource Group
+ * 
+ */
+
+/** NO-BACKGROUND **/
+.bg-none{
+	background:none !important;
+}
+/** BLANCOS **/
+.bg-white{ background: #fff !important;}
+.cl-white{ color: #fff !important;}
+.bg-whitesmoke{ background: #ececec !important;}
+.cl-whitesmoke{ color: #ececec !important;}
+
+/** AZUL **/
+.bg-azul-1{	background: #2C3E50 !important; }
+.cl-azul-1{	color: #2C3E50 !important; }
+.bg-azul-2{	background: #2574A9 !important; }
+.cl-azul-2{	color: #2574A9 !important; }
+.bg-azul-3{	background: #4B77BE !important; }
+.cl-azul-3{	color: #4B77BE !important; }
+.bg-azul-4{	background: #4183D7 !important; }
+.cl-azul-4{	color: #4183D7 !important; }
+.bg-azul-5{	background: #3498DB !important; }
+.cl-azul-5{	color: #3498DB !important; }
+.bg-azul-6{	background: #22A7F0 !important; }
+.cl-azul-6{	color: #22A7F0 !important; }
+.bg-azul-7{	background: #19B5FE !important; }
+.cl-azul-7{	color: #19B5FE !important; }
+.bg-azul-8{	background: #59ABE3 !important; }
+.cl-azul-8{	color: #59ABE3 !important; }
+.bg-azul-9{	background: #6BB9F0 !important; }
+.cl-azul-9{	color: #6BB9F0 !important; }
+
+/** VERDE **/
+.bg-verde-1{ background: #1E824C !important}
+.cl-verde-1{ color: #1E824C !important}
+.bg-verde-2{ background: #26A65B !important}
+.cl-verde-2{ color: #26A65B !important}
+.bg-verde-3{ background: #049372 !important}
+.cl-verde-3{ color: #049372 !important}
+.bg-verde-4{ background: #1BA39C !important}
+.cl-verde-4{ color: #1BA39C !important}
+.bg-verde-5{ background: #87D37C !important}
+.cl-verde-5{ color: #87D37C !important}
+.bg-verde-6{ background: #3FC380 !important}
+.cl-verde-6{ color: #3FC380 !important}
+.bg-verde-7{ background: #26C281 !important}
+.cl-verde-7{ color: #26C281 !important}
+.bg-verde-8{ background: #03C9A9 !important}
+.cl-verde-8{ color: #03C9A9 !important}
+.bg-verde-9{ background: #36D7B7 !important}
+.cl-verde-9{ color: #36D7B7 !important}
+
+/** GRAY **/
+.bg-gris-1{ background: #6C7A89 !important }
+.cl-gris-1{ color: #6C7A89 !important }
+.bg-gris-2{ background: #95A5A6 !important }
+.cl-gris-2{ color: #95A5A6 !important }
+.bg-gris-3{ background: #ABB7B7 !important }
+.cl-gris-3{ color: #ABB7B7 !important }
+.bg-gris-4{ background: #BDC3C7 !important }
+.cl-gris-4{ color: #BDC3C7 !important }
+.bg-gris-5{ background: #D2D7D3 !important }
+.cl-gris-5{ color: #D2D7D3 !important }
+.bg-gris-6{ background: #DADFE1 !important }
+.cl-gris-6{ color: #DADFE1 !important }
+.bg-gris-7{ background: #EEEEEE !important }
+.cl-gris-7{ color: #EEEEEE !important }
+.bg-gris-8{ background: #ECECEC !important }
+.cl-gris-8{ color: #ECECEC !important }
+.bg-gris-9{ background: #ECF0F1 !important }
+.cl-gris-9{ color: #ECF0F1 !important }
+
+/** NARANJO **/
+.bg-naranjo-1{ background: #D35400 !important; }
+.cl-naranjo-1{ color: #D35400 !important; }
+.bg-naranjo-2{ background: #F9690E !important; }
+.cl-naranjo-2{ color: #F9690E !important; }
+.bg-naranjo-3{ background: #E87E04 !important; }
+.cl-naranjo-3{ color: #E87E04 !important; }
+.bg-naranjo-4{ background: #E67E22 !important; }
+.cl-naranjo-4{ color: #E67E22 !important; }
+.bg-naranjo-5{ background: #F89406 !important; }
+.cl-naranjo-5{ color: #F89406 !important; }
+.bg-naranjo-6{ background: #F39C12 !important; }
+.cl-naranjo-6{ color: #F39C12 !important; }
+.bg-naranjo-7{ background: #F4B350 !important; }
+.cl-naranjo-7{ color: #F4B350 !important; }
+.bg-naranjo-8{ background: #F5AB35 !important; }
+.cl-naranjo-8{ color: #F5AB35 !important; }
+.bg-naranjo-9{ background: #FDE3A7 !important; }
+.cl-naranjo-9{ color: #FDE3A7 !important; }
+
+/** ROJO **/
+.bg-rojo-1{ background: #96281B !important; }
+.cl-rojo-1{ color: #96281B !important; }
+.bg-rojo-2{ background: #CF000F !important; }
+.cl-rojo-2{ color: #CF000F !important; }
+.bg-rojo-3{ background: #D91E18 !important; }
+.cl-rojo-3{ color: #D91E18 !important; }
+.bg-rojo-4{ background: #F22613 !important; }
+.cl-rojo-4{ color: #F22613 !important; }
+.bg-rojo-5{ background: #FF0000 !important; }
+.cl-rojo-5{ color: #FF0000 !important; }
+.bg-rojo-6{ background: #D64541 !important; }
+.cl-rojo-6{ color: #D64541 !important; }
+.bg-rojo-7{ background: #D24D57 !important; }
+.cl-rojo-7{ color: #D24D57 !important; }
+.bg-rojo-8{ background: #EF4836 !important; }
+.cl-rojo-8{ color: #EF4836 !important; }
+.bg-rojo-9{ background: #E74C3C !important; }
+.cl-rojo-9{ color: #E74C3C !important; }
+
+/** MORADOS **/
+.bg-morado-1{ background: #663399 !important; }
+.cl-morado-1{ color: #663399 !important; }
+.bg-morado-2{ background: #8E44AD !important; }
+.cl-morado-2{ color: #8E44AD !important; }
+.bg-morado-3{ background: #9B59B6 !important; }
+.cl-morado-3{ color: #9B59B6 !important; }
+.bg-morado-4{ background: #BF55EC !important; }
+.cl-morado-4{ color: #BF55EC !important; }
+.bg-morado-5{ background: #913D88 !important; }
+.cl-morado-5{ color: #913D88 !important; }
+.bg-morado-6{ background: #674172 !important; }
+.cl-morado-6{ color: #674172 !important; }
+.bg-morado-7{ background: #9A12B3 !important; }
+.cl-morado-7{ color: #9A12B3 !important; }
+.bg-morado-8{ background: #BE90D4 !important; }
+.cl-morado-8{ color: #BE90D4 !important; }
+.bg-morado-9{ background: #DCC6E0 !important; }
+.cl-morado-9{ color: #DCC6E0 !important; }
