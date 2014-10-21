@@ -1,0 +1,53 @@
+/*
+ * M4DCss-Flat
+ * ===========
+ *
+ * Libreria de margenes
+ *
+ * Framework Flat opensource
+ * By J4ReK - M4DSource Group
+ * 
+ */
+ 
+/** Estilos agregar margenes 
+ * mv : Superior e inferior
+ * mh : Lateral derecho e izquierdo
+ * mt : Superior
+ * mr : Lateral derecho
+ * ml : Lateral izquierdo
+ * mb : Inferior
+ */
+.mv10{margin-top: 10px;margin-bottom:10px;}
+.mh10{margin-left:10px;margin-right:10px;}
+.mv20{margin-top: 20px;margin-bottom:20px;}
+.mh20{margin-left:20px;margin-right:20px;}
+.mv30{margin-top: 30px;margin-bottom:30px;}
+.mh30{margin-left:30px;margin-right:30px;}
+.mv40{margin-top: 40px;margin-bottom:40px;}
+.mh40{margin-left:40px;margin-right:40px;}
+.mv50{margin-top: 50px;margin-bottom:50px;}
+.mh50{margin-left:50px;margin-right:50px;}
+
+.mt10{margin-top: 10px;}
+.mt20{margin-top: 20px;}
+.mt30{margin-top: 30px;}
+.mt40{margin-top: 40px;}
+.mt50{margin-top: 50px;}
+
+.mr10{margin-right: 10px;}
+.mr20{margin-right: 20px;}
+.mr30{margin-right: 30px;}
+.mr40{margin-right: 40px;}
+.mr50{margin-right: 50px;}
+
+.ml10{margin-left: 10px;}
+.ml20{margin-left: 20px;}
+.ml30{margin-left: 30px;}
+.ml40{margin-left: 40px;}
+.ml50{margin-left: 50px;}
+
+.mb10{margin-bottom: 10px;}
+.mb20{margin-bottom: 20px;}
+.mb30{margin-bottom: 30px;}
+.mb40{margin-bottom: 40px;}
+.mb50{margin-bottom: 50px;}
