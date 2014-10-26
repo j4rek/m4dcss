@@ -1,0 +1,46 @@
+/*
+ * M4DCss-Flat
+ * ===========
+ *
+ * Libreria para menus
+ *
+ * Framework Flat opensource
+ * By J4ReK - M4DSource Group
+ * 
+ */
+/** MENU HORIZONTAL **/
+.mnu-hz{
+	width:100%;
+}
+.mnu-hz.equals ul{
+}
+.mnu-hz.equals ul li{
+	width:120px;
+}
+.mnu-hz.mnu-nobg ul li{
+	background: none;
+}
+.mnu-hz ul li{
+	text-transform: uppercase;
+	text-align: center;
+	border-width: 0px;
+	border-style: solid;
+	border-color: #aaa;
+	background-color: #fff;
+	display: inline-block;
+	*display:inline;
+	*zoom:1;
+}
+.mnu-hz ul li a{
+	display: block;
+	font-size:10px;
+	padding: 10px 5px;
+	color:inherit;
+}
+.mnu-hz ul li a:hover{
+	font-weight: bold;
+}
+/** MENU LATERAL **/
+.mnu-lt{
+	margin: 0;
+}
