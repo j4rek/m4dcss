@@ -412,7 +412,7 @@ ul.grid > li{
 /* [COLORES] */
 /** NO-background-color **/
 .bg-none{
-	background-color:none !important;
+	background:none !important;
 }
 /** BLANCOS **/
 .bg-white{ background-color: #fff !important;}

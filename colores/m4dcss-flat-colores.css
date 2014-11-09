@@ -9,9 +9,9 @@
  * 
  */
 
-/** NO-background-color **/
+/** NO-background **/
 .bg-none{
-	background-color:none !important;
+	background:none !important;
 }
 /** BLANCOS **/
 .bg-white{ background-color: #fff !important;}
