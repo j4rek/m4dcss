@@ -401,6 +401,9 @@ ul.grid > li{
 	color:inherit;
 }
 .mnu-hz ul li a:hover{
+	color:#222;
+}
+.mnu-hz.equals ul li a:hover{
 	font-weight: bold;
 }
 /** MENU LATERAL **/
