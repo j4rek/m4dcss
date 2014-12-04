@@ -319,6 +319,20 @@ ul.horizontal li{
 	width:100%;
 	margin:5px 0px;
 }
+/** separador horizontal personalizado **/
+.vsep-1{
+	padding: 20px 0px;
+	height:100px;
+}
+.vsep-2{
+	padding: 20px 0px;
+	height:200px;
+}
+.vsep-in{
+	content: " ";
+	height:100%;
+	width: 1px;
+}
 
 /** Estilos para inputs **/
 input[type="button"].shadow, button.shadow{
