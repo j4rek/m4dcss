@@ -328,6 +328,14 @@ ul.horizontal li{
 	padding: 20px 0px;
 	height:200px;
 }
+.vsep-3{
+	padding: 30px 0px;
+	height:100px;
+}
+.vsep-4{
+	padding: 30px 0px;
+	height:200px;
+}
 .vsep-in{
 	content: " ";
 	height:100%;
