@@ -44,3 +44,19 @@
 .mnu-lt{
 	margin: 0;
 }
+
+/** MENU ACORDEON **/
+.mnu-acc{
+	position: relative;
+}
+.mnu-acc .base{
+}
+.mnu-acc .items{
+	position: absolute;
+	display: none;
+	top: 0;
+	left: 0;
+}
+.mnu-acc:hover .items{
+	display: inherit;
+}
