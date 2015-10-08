@@ -2,7 +2,7 @@
  * M4DCss-Flat
  * ===========
  *
- * Libreria de posiciones absolutas
+ * Libreria de posiciones
  *
  * Framework Flat opensource
  * By J4ReK - M4DSource Group
@@ -10,6 +10,10 @@
  */
 
 .contentPos{	position: relative;	}
+.posFix{
+	position: absolute;
+	margin: 0;
+}
 .posAbs{
 	position: absolute;
 	margin: 0;
