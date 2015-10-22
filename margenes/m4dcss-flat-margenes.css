@@ -1,0 +1,88 @@
+/*
+ * M4DCss-Flat
+ * ===========
+ *
+ * Libreria de margenes
+ *
+ * Framework Flat opensource
+ * By J4ReK - M4DSource Group
+ * 
+ */
+ 
+/** Estilos agregar margenes 
+ * mv : Superior e inferior
+ * mh : Lateral derecho e izquierdo
+ * mt : Superior
+ * mr : Lateral derecho
+ * ml : Lateral izquierdo
+ * mb : Inferior
+ */
+.mv0 {margin-top: 0px;margin-bottom: 0px;}
+.mv10{margin-top: 10px;margin-bottom:10px;}
+.mh10{margin-left:10px;margin-right:10px;}
+.mv20{margin-top: 20px;margin-bottom:20px;}
+.mh20{margin-left:20px;margin-right:20px;}
+.mv30{margin-top: 30px;margin-bottom:30px;}
+.mh30{margin-left:30px;margin-right:30px;}
+.mv40{margin-top: 40px;margin-bottom:40px;}
+.mh40{margin-left:40px;margin-right:40px;}
+.mv50{margin-top: 50px;margin-bottom:50px;}
+.mh50{margin-left:50px;margin-right:50px;}
+.mv60{margin-top: 60px;margin-bottom:60px;}
+.mh60{margin-left:60px;margin-right:60px;}
+.mv70{margin-top: 70px;margin-bottom:70px;}
+.mh70{margin-left:70px;margin-right:70px;}
+.mv80{margin-top: 80px;margin-bottom:80px;}
+.mh80{margin-left:80px;margin-right:80px;}
+.mv90{margin-top: 90px;margin-bottom:90px;}
+.mh90{margin-left:90px;margin-right:90px;}
+.mv100{margin-top: 100px;margin-bottom:100px;}
+.mh100{margin-left:100px;margin-right:100px;}
+
+.mt0 {margin-top: 0px;}
+.mt10{margin-top: 10px;}
+.mt20{margin-top: 20px;}
+.mt30{margin-top: 30px;}
+.mt40{margin-top: 40px;}
+.mt50{margin-top: 50px;}
+.mt60{margin-top: 60px;}
+.mt70{margin-top: 70px;}
+.mt80{margin-top: 80px;}
+.mt90{margin-top: 90px;}
+.mt100{margin-top: 100px;}
+
+.mr0 {margin-right: 0px;}
+.mr10{margin-right: 10px;}
+.mr20{margin-right: 20px;}
+.mr30{margin-right: 30px;}
+.mr40{margin-right: 40px;}
+.mr50{margin-right: 50px;}
+.mr60{margin-right: 60px;}
+.mr70{margin-right: 70px;}
+.mr80{margin-right: 80px;}
+.mr90{margin-right: 90px;}
+.mr100{margin-right: 100px;}
+
+.ml0  {margin-left: 0px;}
+.ml10{margin-left: 10px;}
+.ml20{margin-left: 20px;}
+.ml30{margin-left: 30px;}
+.ml40{margin-left: 40px;}
+.ml50{margin-left: 50px;}
+.ml60{margin-left: 60px;}
+.ml70{margin-left: 70px;}
+.ml80{margin-left: 80px;}
+.ml90{margin-left: 90px;}
+.ml100{margin-left: 100px;}
+
+.mb0 {margin-bottom: 0px;}
+.mb10{margin-bottom: 10px;}
+.mb20{margin-bottom: 20px;}
+.mb30{margin-bottom: 30px;}
+.mb40{margin-bottom: 40px;}
+.mb50{margin-bottom: 50px;}
+.mb60{margin-bottom: 60px;}
+.mb70{margin-bottom: 70px;}
+.mb80{margin-bottom: 80px;}
+.mb90{margin-bottom: 90px;}
+.mb100{margin-bottom: 100px;}

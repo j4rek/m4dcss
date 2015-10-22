@@ -1,0 +1,91 @@
+/*
+ * M4DCss-Flat
+ * ===========
+ *
+ * Libreria de rellenos (padding)
+ *
+ * Framework Flat opensource
+ * By J4ReK - M4DSource Group
+ * 
+ */
+ 
+/** Estilos agregar padding 
+ * pdv : Superior e inferior
+ * pdh : Lateral derecho e izquierdo
+ * pdt : Superior
+ * pdr : Lateral derecho
+ * pdl : Lateral izquierdo
+ * pdb : Inferior
+ */
+ .pdv0{padding-top  :0px;padding-bottom: 0px;}
+ .pdh0{padding-left :0px;padding-right: 0px;}
+.pdv5{padding-top	:5px;padding-bottom: 5px;}
+.pdh5{padding-left  :5px;padding-right: 5px;}
+.pdv10{padding-top	:10px;padding-bottom: 10px;}
+.pdh10{padding-left	:10px;padding-right: 10px;}
+.pdv20{padding-top	:20px;padding-bottom: 20px;}
+.pdh20{padding-left	:20px;padding-right: 20px;}
+.pdv30{padding-top	:30px;padding-bottom: 30px;}
+.pdh30{padding-left	:30px;padding-right: 30px;}
+.pdv40{padding-top	:40px;padding-bottom: 40px;}
+.pdh40{padding-left	:40px;padding-right: 40px;}
+.pdv50{padding-top	:50px;padding-bottom: 50px;}
+.pdh50{padding-left	:50px;padding-right: 50px;}
+.pdv60{padding-top	:60px;padding-bottom: 60px;}
+.pdh60{padding-left	:60px;padding-right: 60px;}
+.pdv70{padding-top	:70px;padding-bottom: 70px;}
+.pdh70{padding-left	:70px;padding-right: 70px;}
+.pdv80{padding-top	:80px;padding-bottom: 80px;}
+.pdh80{padding-left	:80px;padding-right: 80px;}
+.pdv90{padding-top	:90px;padding-bottom: 90px;}
+.pdh90{padding-left	:90px;padding-right: 90px;}
+.pdv100{padding-top	:100px;padding-bottom: 100px;}
+.pdh100{padding-left	:100px;padding-right: 100px;}
+
+.pdt0{padding-top : 0px;}
+.pdt10{padding-top: 10px;}
+.pdt20{padding-top: 20px;}
+.pdt30{padding-top: 30px;}
+.pdt40{padding-top: 40px;}
+.pdt50{padding-top: 50px;}
+.pdt60{padding-top: 60px;}
+.pdt70{padding-top: 70px;}
+.pdt80{padding-top: 80px;}
+.pdt90{padding-top: 90px;}
+.pdt100{padding-top: 100px;}
+
+.pdr0{padding-right: 0px;}
+.pdr10{padding-right: 10px;}
+.pdr20{padding-right: 20px;}
+.pdr30{padding-right: 30px;}
+.pdr40{padding-right: 40px;}
+.pdr50{padding-right: 50px;}
+.pdr60{padding-right: 60px;}
+.pdr70{padding-right: 70px;}
+.pdr80{padding-right: 80px;}
+.pdr90{padding-right: 90px;}
+.pdr100{padding-right: 100px;}
+
+.pdl0{padding-left : 0px;}
+.pdl10{padding-left: 10px;}
+.pdl20{padding-left: 20px;}
+.pdl30{padding-left: 30px;}
+.pdl40{padding-left: 40px;}
+.pdl50{padding-left: 50px;}
+.pdl60{padding-left: 60px;}
+.pdl70{padding-left: 70px;}
+.pdl80{padding-left: 80px;}
+.pdl90{padding-left: 90px;}
+.pdl100{padding-left: 100px;}
+
+.pdb0{padding-bottom: 0px;}
+.pdb10{padding-bottom: 10px;}
+.pdb20{padding-bottom: 20px;}
+.pdb30{padding-bottom: 30px;}
+.pdb40{padding-bottom: 40px;}
+.pdb50{padding-bottom: 50px;}
+.pdb60{padding-bottom: 60px;}
+.pdb70{padding-bottom: 70px;}
+.pdb80{padding-bottom: 80px;}
+.pdb90{padding-bottom: 90px;}
+.pdb100{padding-bottom: 100px;}
