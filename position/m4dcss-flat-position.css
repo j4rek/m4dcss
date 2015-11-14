@@ -8,12 +8,7 @@
  * By J4ReK - M4DSource Group
  * 
  */
-
 .contentPos{	position: relative;	}
-.posFix{
-	position: absolute;
-	margin: 0;
-}
 .posAbs{
 	position: absolute;
 	margin: 0;

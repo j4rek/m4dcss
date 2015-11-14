@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+	<meta charset="utf-8" />
+	<link rel="stylesheet" href="../boxsizes/m4dcss-flat-boxsizes.css" />
+	<link rel="stylesheet" href="m4dcss-flat-bordes.css" />
+	<style>
+	div{
+		background: #2d85d7;
+		color:white;
+		padding:10px;
+		margin:0px 0px 10px 0px;
+	}
+	</style>
+</head>
+<body>
+	<h1>M4DCss Flat</h1>
+	<hr />
+	
+	<h4>Clases para aplicar bordes</h4>
+	<div>
+		Las clases se aplican de la siguiente forma:
+		<ul style="list-style:none;">
+			<li>Primero asignar el borde a utilizar junto con su estilo: 
+				<ul>
+					<li>Formato: b{t,r,l,b}-{solid,dotted,dashed}</li>
+					<li>Ejemplo 1: borde superior solido -> bt-solid</li>
+					<li>Ejemplo 2: borde izquierdo punteado -> bl-dotted</li>
+				</ul>
+			</li>
+			<li>Segundo asignar el tamaño del borde: 
+				<ul>
+					<li>Formato: b{t,r,l,b}s-{1-9}x</li>
+					<li>Ejemplo 1: borde superior tamaño 3pixeles -> bts-3x</li>
+					<li>Ejemplo 2: borde izquierdo tamaño 10pixeles -> bls-10x</li>
+				</ul>
+			</li>
+			<li>Tercero asignar el color del borde junto con su tonalidad:
+				<ul>
+					<li>Formato: b{t,r,l,b}c-{gris,azul,verde,rojo,naranjo,morado}-{1-9}</li>
+					<li>Ejemplo 1: borde superior color verde medio -> btc-verde-5</li>
+					<li>Ejemplo 2: borde izquierdo color azul oscuro -> blc-azul-1</li>
+					<li>Ejemplo 3: borde derecho color rojo claro -> brc-rojo-9</li>
+					<li>Nota: La tonalidad del color va numerada desde 1 a 9, mientras mas alto el numero, mas claro el color</li>
+				</ul>
+			</li>
+		</ul>
+	</div>
+	<br/>
+	Caja con borde solido(solid) superior de color verde medio con tamaño de 2 pixeles: div.bt-solid.bts-2x.btc-verde-5
+	<div class="bt-solid bts-2x btc-verde-5 w300">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim 		ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 	fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</div>
+	<br/>
+	Caja con borde punteado(dotted) derecho de color azul oscuro con tamaño de 5 pixeles: div.br-dotted.brs-5x.brc-azul-1
+	<div class="br-dotted brs-5x brc-azul-1 w300">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad 	minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 		fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</div>
+	<br/>
+	Caja con borde lineado(dashed) inferior de color rojo medio con tamaño de 10 pixeles: div.bb-dashed.bbs-10x.bbc-rojo-4
+	<div class="bb-dashed bbs-10x bbc-rojo-4 w300">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad 	minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 		fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</div>
+	<br/>	
+</body>
+</html>

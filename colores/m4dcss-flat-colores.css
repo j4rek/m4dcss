@@ -9,6 +9,9 @@
  * 
  */
 
+/** Los colores predefinidos pueden aplicarse a las siguientes propiedades
+* bg : background-color;
+* cl : color;
 /** NO-background **/
 .bg-none{
 	background:none !important;
@@ -59,7 +62,7 @@
 .bg-verde-9{ background-color: #36D7B7 !important}
 .cl-verde-9{ color: #36D7B7 !important}
 
-/** GRAY **/
+/** GRIS **/
 .bg-gris-1{ background-color: #6C7A89 !important }
 .cl-gris-1{ color: #6C7A89 !important }
 .bg-gris-2{ background-color: #95A5A6 !important }
