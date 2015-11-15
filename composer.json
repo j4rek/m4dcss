@@ -5,6 +5,7 @@
 	{
 		"type":"vcs",
 		"url":"https://github.com/j4rek/m4dcss.git"
+	}
     ],
     "type": "css",
     "license": "OpenSource",
