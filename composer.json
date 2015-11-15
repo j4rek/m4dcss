@@ -1,0 +1,19 @@
+{
+    "name": "m4dsource/m4dflat",
+    "description": "Libreria Css",
+    "repositories":[
+	{
+		"type":"vcs",
+		"url":"https://github.com/j4rek/m4dcss.git"
+    ],
+    "type": "css",
+    "license": "OpenSource",
+    "authors": [
+        {
+            "name": "j4rek",
+            "email": "j4.castro@hotmail.com"
+        }
+    ],
+    "minimum-stability": "RC",
+    "require": {}
+}
