@@ -1,0 +1,29 @@
+/*
+ * M4DCss-Flat
+ * ===========
+ *
+ * Libreria para textos
+ *
+ * Framework Flat opensource
+ * By J4ReK - M4DSource Group
+ * 
+ */
+/** Estilos cabecera **/ 
+.h1{font-size: 4.5em !important;	font-weight: normal;	} 
+.h2{font-size: 4em !important;		font-weight: normal;	} 
+.h3{font-size: 3.5em !important;	font-weight: normal;	} 
+.h4{font-size: 3em !important;		font-weight: normal;	} 
+.h5{font-size: 2.5em !important;	font-weight: normal;	} 
+.h6{font-size: 2em !important;		font-weight: normal;	}
+.h7{font-size: 1.5em !important;	font-weight: normal;	}
+.h8{font-size: 1em !important;		font-weight: normal;	}
+
+/** adorno **/
+.bolded{font-weight: bold;}
+.noBold{font-weight: normal;}
+
+/** Alinear textos **/
+.text-center{text-align: center;}
+.text-left{text-align: left;}
+.text-right{text-align: right;}
+.text-justify{text-align: justify;}
