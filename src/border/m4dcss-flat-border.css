@@ -10,6 +10,7 @@
  */
  
  /** Estilos agregar bordes, cada uno con su estilo (solid, dotted, dashed)
+ * b-{estilo}  : Todos los bordes;
  * bv-{estilo} : Superior e inferior
  * bh-{estilo} : Lateral derecho e izquierdo
  * bt-{estilo} : Superior
@@ -17,6 +18,9 @@
  * bl-{estilo} : Lateral izquierdo
  * bb-{estilo} : Inferior
  */
+.b-solid{border-style: solid;}
+.b-dotted{border-style: dotted;}
+.b-dotted{border-style: dashed;}
 .bv-solid {border-top-style:solid; border-bottom-style: solid;}
 .bv-dotted{border-top-style:dotted;border-bottom-style: dotted;}
 .bv-dashed{border-top-style:dashed;border-bottom-style: dashed;}
@@ -41,6 +45,17 @@
 * formato: b{t-r-l-b}s-##x
 * ejemplo: borde superior de 2px -> bts-2x 
 */
+.bs-1x{border-width:1px;}
+.bs-2x{border-width:2px;}
+.bs-3x{border-width:3px;}
+.bs-4x{border-width:4px;}
+.bs-5x{border-width:5px;}
+.bs-6x{border-width:6px;}
+.bs-7x{border-width:7px;}
+.bs-8x{border-width:8px;}
+.bs-9x{border-width:9px;}
+.bs-10x{border-width:10px;}
+
 .bts-1x{border-top-width:1px;}
 .bts-2x{border-top-width:2px;}
 .bts-3x{border-top-width:3px;}
@@ -86,6 +101,61 @@
 * formato: b{t-r-l-b}c-{azul-verde-naranjo-rojo-morado-gris}-{1 al 9}
 * ejemplo: borde izquierdo de color verde medio -> blc-verde-5
 */
+.bc-azul-1{border-color:#2C3E50;}
+.bc-azul-2{border-color:#2574A9;}
+.bc-azul-3{border-color:#4B77BE;}
+.bc-azul-4{border-color:#4183D7;}
+.bc-azul-5{border-color:#3498DB;}
+.bc-azul-6{border-color:#22A7F0;}
+.bc-azul-7{border-color:#19B5FE;}
+.bc-azul-8{border-color:#59ABE3;}
+.bc-azul-9{border-color:#6BB9F0;}
+.bc-verde-1{border-color:#1E824C;}
+.bc-verde-2{border-color:#26A65B;}
+.bc-verde-3{border-color:#049372;}
+.bc-verde-4{border-color:#1BA39C;}
+.bc-verde-5{border-color:#87D37C;}
+.bc-verde-6{border-color:#3FC380;}
+.bc-verde-7{border-color:#26C281;}
+.bc-verde-8{border-color:#03C9A9;}
+.bc-verde-9{border-color:#36D7B7;}
+.bc-gris-1{border-color:#6C7A89;}
+.bc-gris-2{border-color:#95A5A6;}
+.bc-gris-3{border-color:#ABB7B7;}
+.bc-gris-4{border-color:#BDC3C7;}
+.bc-gris-5{border-color:#D2D7D3;}
+.bc-gris-6{border-color:#DADFE1;}
+.bc-gris-7{border-color:#EEEEEE;}
+.bc-gris-8{border-color:#ECECEC;}
+.bc-gris-9{border-color:#ECF0F1;}
+.bc-naranjo-1{border-color:#D35400;}
+.bc-naranjo-2{border-color:#F9690E;}
+.bc-naranjo-3{border-color:#E87E04;}
+.bc-naranjo-4{border-color:#E67E22;}
+.bc-naranjo-5{border-color:#F89406;}
+.bc-naranjo-6{border-color:#F39C12;}
+.bc-naranjo-7{border-color:#F4B350;}
+.bc-naranjo-8{border-color:#F5AB35;}
+.bc-naranjo-9{border-color:#FDE3A7;}
+.bc-rojo-1{border-color:#96281B;}
+.bc-rojo-2{border-color:#CF000F;}
+.bc-rojo-3{border-color:#D91E18;}
+.bc-rojo-4{border-color:#F22613;}
+.bc-rojo-5{border-color:#FF0000;}
+.bc-rojo-6{border-color:#D64541;}
+.bc-rojo-7{border-color:#D24D57;}
+.bc-rojo-8{border-color:#EF4836;}
+.bc-rojo-9{border-color:#E74C3C;}
+.bc-morado-1{border-color:#663399;}
+.bc-morado-2{border-color:#8E44AD;}
+.bc-morado-3{border-color:#9B59B6;}
+.bc-morado-4{border-color:#BF55EC;}
+.bc-morado-5{border-color:#913D88;}
+.bc-morado-6{border-color:#674172;}
+.bc-morado-7{border-color:#9A12B3;}
+.bc-morado-8{border-color:#BE90D4;}
+.bc-morado-9{border-color:#DCC6E0;}
+
 .btc-azul-1{border-top-color:#2C3E50;}
 .btc-azul-2{border-top-color:#2574A9;}
 .btc-azul-3{border-top-color:#4B77BE;}
