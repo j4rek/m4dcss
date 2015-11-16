@@ -10,14 +10,14 @@
  */
  /** Cajas horizontales **/
 .grid{
+	display: flex;
+}
+.grid.grid-center{
+	justify-content: center;
+}
+.grid > div:last-child{
+	clear:both;
+	content: " ";
 }
 .grid > .box{
-	float: left;
-}
-.grid > .box > .box-info{
-	visibility: hidden;
-	text-overflow: ellipsis;
-}
-.grid > .box:hover > .box-info{
-	visibility: visible;
 }
