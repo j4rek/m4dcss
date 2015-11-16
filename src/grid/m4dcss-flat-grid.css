@@ -1,0 +1,23 @@
+/*
+ * M4DCss-Flat
+ * ===========
+ *
+ * Libreria de grids
+ *
+ * Framework Flat opensource
+ * By J4ReK - M4DSource Group
+ * 
+ */
+ /** Cajas horizontales **/
+.grid{
+}
+.grid > .box{
+	float: left;
+}
+.grid > .box > .box-info{
+	visibility: hidden;
+	text-overflow: ellipsis;
+}
+.grid > .box:hover > .box-info{
+	visibility: visible;
+}
